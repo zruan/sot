@@ -38,6 +38,7 @@ encouraged to read the online `PLUMED documentation
 Once the above programs are installed, run the setup file in SOT root folder:
 
     python setup.py build
+    
     python setup.py install
 
 Basic usage
