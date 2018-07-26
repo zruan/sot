@@ -7,16 +7,18 @@ with GROMACS as the backend molecular dynamics engine.
 
 Freely distributed under the GNU General Public License v2 (see LICENSE).
 
+The code is not estensively tested. Make sure you understand the code well before
+carrying out productive simulations.
+
 Installation
 ------------
 
-The installation consists of a Python library, ``sotlib``, and two scripts,
-``fammer.py`` and ``tmalign.py``.
+The installation consists of a Python library, ``sotlib``.
 
 Download the .zip file and unpack it, or clone this git repository, to get the
 source code.
 
-To use all the features of Fammer, you'll need the following third-party
+To use all the features of sot, you'll need the following third-party
 programs installed:
 
 - Python_ 2.7
